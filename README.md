@@ -99,17 +99,6 @@
 - **30 天后端面试笔记**：30 篇 Markdown + PDF，覆盖 Java 基础、集合、并发、JVM、Spring、MySQL、Redis、RabbitMQ、网络、操作系统、项目复盘与模拟面试
 - **LeetCode Java 题解**：按算法类型整理，含题目描述与思路注释，目前覆盖动态规划（279 / 322）等题型
 
-## 📈 GitHub
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=buleSkyBe&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buleSkyBe&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=buleSkyBe&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
-</p>
-
 ## 🌱 最近在学
 
 - 🧠 大模型应用：RAG、Tool Use、Agent Memory 与工作流编排
